@@ -1,0 +1,3 @@
+source tfenv/bin/activate  # ou tfenv\Scripts\activate no Windows
+pip install ipykernel
+python -m ipykernel install --user --name=tfenv --display-name "Python (tfenv)"
