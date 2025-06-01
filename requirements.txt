@@ -4,3 +4,5 @@ Pillow
 scikit-learn
 numpy
 seaborn
+scipy
+scikit-image
