@@ -3,3 +3,5 @@ matplotlib
 Pillow
 scikit-learn
 numpy
+scipy
+scikit-image
