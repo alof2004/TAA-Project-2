@@ -2,7 +2,7 @@
 
 This project was developed as part of the **Machine Learning Topics 2024/2025** course at the **University of Aveiro**. It explores the automated classification of Alzheimer’s disease using **MRI scans**, combining **radiomic feature extraction** and **deep learning** techniques.
 
-## 🧠 Project Overview
+## Project Overview
 
 Alzheimer’s disease is the leading cause of dementia globally, and early detection is critical for patient care. This project investigates various machine learning and deep learning models to classify cognitive impairment levels based on brain MRI data.
 
