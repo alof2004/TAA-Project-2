@@ -54,6 +54,8 @@ Alzheimer’s disease is the leading cause of dementia globally, and early detec
 ## Authors
 
 - **Afonso Ferreira** – NMEC 113480  
-- **Tomás Brás** – NMEC 112665  
+- **Tomás Brás** – NMEC 112665
+
+## For more information on this project you can read our report which can be found here: [Report](https://github.com/alof2004/TAA-Project-2/blob/main/report_taa.pdf)
 
 ## Grade - 19.9
